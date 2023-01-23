@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chic0o0, aka Andrés Chico
 - 👀 I’m interested in programming, sports and games in general
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning big data and AI
 - 💞️ I’m looking to collaborate on a long-term project with future
 - 📫 How to reach me: chicokds@gmail.com
 
