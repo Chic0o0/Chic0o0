@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, sports and games in general
 - 🌱 I’m currently learning big data and AI
 - 💞️ I’m looking to collaborate on a long-term project with future
-- 📫 How to reach me: chicokds@gmail.com
+- 📫 How to reach me: andreschicograna@.com
 
 <!---
 Chic0o0/Chic0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
