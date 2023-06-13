@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on Ilustre Colegio de Abogados de Oviedo
 - 💞️ I’m looking to collaborate in an exciting IT project to grow along with
 - 📫 How to reach me:
--                     https://es.linkedin.com/in/andres-chico-gra%C3%B1a
--                     andreschicograna@gmail.com
+-   **https://es.linkedin.com/in/andres-chico-gra%C3%B1a**
+-   **andreschicograna@gmail.com**
 
 <!---
 Chic0o0/Chic0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
